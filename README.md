@@ -24,7 +24,7 @@ I'm passionate about **web development**, **MERN stack**, and **building scalabl
 ---
 
 ## 📈 **GitHub Stats**
-![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Rahul's GitHub stats](https://github.com/Rahulchaudharyji2)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---

@@ -70,4 +70,6 @@
 
 🔥 **If you find my work useful, consider giving a ⭐ to my repositories!**  
 💻 **Happy Coding!** 🚀  
+### 🐍 Contribution Snake  
+![Snake animation](https://github.com/Rahulchaudharyji2/Rahulchaudharyji2/blob/output/github-contribution-grid-snake.svg)
 

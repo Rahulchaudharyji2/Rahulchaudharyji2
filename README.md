@@ -6,6 +6,11 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212458372-3f09e546-7f6e-49bc-a5ef-97b64a0978f0.gif" width="80%">
 </div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rahulchaudharyji2&label=Profile%20views&color=0e75b6&style=flat" alt="Rahulchaudharyji2" /> </p>
+
+
+
+- 🌱 I’m currently learning **React**
 
 ---
 
@@ -38,7 +43,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahulchaudharyji2&layout=compact&theme=radical&langs_count=8" />
 </p>
 
----
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Rahulchaudharyji2" alt="Rahulchaudharyji2" /></a> </p>
+
 
 ## **🐍 Contribution Snake**
 ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)

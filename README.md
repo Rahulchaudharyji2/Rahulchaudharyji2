@@ -6,11 +6,11 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212458372-3f09e546-7f6e-49bc-a5ef-97b64a0978f0.gif" width="80%">
 </div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rahulchaudharyji2&label=Profile%20views&color=0e75b6&style=flat" alt="Rahulchaudharyji2" /> </p>
 
 
 
-- 🌱 I’m currently learning **React**
+
+
 
 ---
 

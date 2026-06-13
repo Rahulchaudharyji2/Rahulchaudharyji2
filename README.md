@@ -27,7 +27,7 @@
 
 ## **🛠 Tech Stack**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux,nodejs,express,mongodb,tailwind,mui,firebase,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux,nodejs,express,mongodb,tailwind,mui,firebase,git,github,docker,aws" />
 </p>
 
 ---
@@ -40,7 +40,7 @@
 
 📊 **Top Languages Used:**  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahulchaudharyji2&layout=compact&theme=radical&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahulchaudharyji2&layout=compact&theme=radical&langs_count=15" />
 </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Rahulchaudharyji2" alt="Rahulchaudharyji2" /></a> </p>

@@ -25,9 +25,20 @@
 
 ---
 
-## **🛠 Tech Stack**
+## 🛠 Tech Stack
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux,nodejs,express,mongodb,tailwind,mui,shadcn,firebase,git,github,docker,aws,clerk,postgress,noendb,redis,kubernates,cloudflare,Prometheus,Grafana,Newrelic" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux,nodejs,express,mongodb,tailwind,mui,firebase,git,github,docker,aws,postgres,redis,kubernetes,cloudflare" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ShadCN_UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
+  <img src="https://img.shields.io/badge/NeonDB-00E599?style=for-the-badge&logo=neon&logoColor=black" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/New_Relic-008C99?style=for-the-badge&logo=newrelic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white" />
+
 </p>
 
 ---

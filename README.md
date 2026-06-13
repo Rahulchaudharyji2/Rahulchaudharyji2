@@ -1,27 +1,35 @@
 # **🚀 Hey, I'm Rahul!**  
-### **Full Stack Developer | Devops Engineer | Tech Community Lead | Open Source Contributor**  
+### **Full Stack Developer | Devops Engineer | Blockchain Developer | Tech Community Lead | Open Source Contributor**  
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF9100&width=700&lines=Full-Stack+Web+Developer;Passionate+about+building+scalable+apps;Tech+Community+Lead+at+Tech+Spark;Open-Source+Contributor+%26+Hackathon+Enthusiast)  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF9100&width=700&lines=Full-Stack+Web+Developer+devops+engineer+Blockchain+developer;Passionate+about+building+scalable+apps;Tech+Community+Lead+at+Tech+Spark;Open-Source+Contributor+%26+Hackathon+Enthusiast)  
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212458372-3f09e546-7f6e-49bc-a5ef-97b64a0978f0.gif" width="80%">
 </div>
 
 
-
-
-
-
 ---
 
 ## **👨‍💻 About Me**
-🔹 **I am Full Stack Web Developer and Devops Engineer**  
-🔹 **Founder of Tech Spark** – Organizing coding events & tech sessions  
-🔹 **Passionate about Open Source, DSA, & Full-Stack Development**  
-🔹 **Building Scalable Web Apps with Clean Code**  
-🔹 **Always learning & exploring new technologies**  
+🔹 Full Stack Developer specializing in modern web technologies and scalable applications
 
-📩 **Let's connect:** [rahulchaudharyji2@gmail.com](mailto:rahulchaudharyji2@gmail.com)  
+🔹 DevOps Engineer with hands-on experience in Docker, Kubernetes, CI/CD, AWS, Monitoring & Cloud Infrastructure
+
+🔹 Blockchain Developer experienced in building DApps and Smart Contracts
+
+🔹 Worked with Ethereum, Polygon, and Algorand ecosystems
+
+🔹 Experienced in Solidity, Web3 Integration, Wallet Authentication, and Decentralized Applications
+
+🔹 Open Source Contributor passionate about developer experience and community-driven development
+
+🔹 Founder & Community Lead of Tech Spark, organizing coding contests, workshops, hackathons, and technical events
+
+🔹 Strong interest in System Design, Cloud Computing, Distributed Systems, and Developer Tools
+
+🔹 Consistently learning and exploring emerging technologies across Web, Cloud, AI, and Blockchain
+
+📩 Let's connect: rahulchaudharyji2@gmail.com 
 
 ---
 

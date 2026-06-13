@@ -1,5 +1,5 @@
 # **🚀 Hey, I'm Rahul!**  
-### **MERN Stack Developer | Tech Community Lead | Open Source Contributor**  
+### **Full Stack Developer| Devops Engineer | Tech Community Lead | Open Source Contributor**  
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF9100&width=700&lines=Full-Stack+Web+Developer;Passionate+about+building+scalable+apps;Tech+Community+Lead+at+Tech+Spark;Open-Source+Contributor+%26+Hackathon+Enthusiast)  
 
@@ -15,7 +15,7 @@
 ---
 
 ## **👨‍💻 About Me**
-🔹 **Web Developer specializing in the MERN Stack**  
+🔹 **I am Full Stack Web Developer and Devops Engineer**  
 🔹 **Founder of Tech Spark** – Organizing coding events & tech sessions  
 🔹 **Passionate about Open Source, DSA, & Full-Stack Development**  
 🔹 **Building Scalable Web Apps with Clean Code**  
@@ -27,7 +27,7 @@
 
 ## **🛠 Tech Stack**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux,nodejs,express,mongodb,tailwind,mui,firebase,git,github,docker,aws" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux,nodejs,express,mongodb,tailwind,mui,shadcn,firebase,git,github,docker,aws,clerk,postgress,noendb,redis,kubernates,cloudflare,Prometheus,Grafana,Newrelic" />
 </p>
 
 ---

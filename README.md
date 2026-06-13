@@ -1,5 +1,5 @@
 # **🚀 Hey, I'm Rahul!**  
-### **Full Stack Developer| Devops Engineer | Tech Community Lead | Open Source Contributor**  
+### **Full Stack Developer | Devops Engineer | Tech Community Lead | Open Source Contributor**  
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF9100&width=700&lines=Full-Stack+Web+Developer;Passionate+about+building+scalable+apps;Tech+Community+Lead+at+Tech+Spark;Open-Source+Contributor+%26+Hackathon+Enthusiast)  
 

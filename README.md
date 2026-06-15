@@ -1,12 +1,18 @@
-# **🚀 Hey, I'm Rahul!**  
-### **Full Stack Developer | Devops Engineer | Blockchain Developer | Tech Community Lead | Open Source Contributor**  
+<h1 align="center">Hi 👋, I'm Rahul Chaudhary</h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF9100&width=700&lines=Full-Stack+Web+Developer+devops+engineer+Blockchain+developer;Passionate+about+building+scalable+apps;Tech+Community+Lead+at+Tech+Spark;Open-Source+Contributor+%26+Hackathon+Enthusiast)  
+<h3 align="center">
+Full Stack Developer • DevOps Engineer • Blockchain Developer
+</h3>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212458372-3f09e546-7f6e-49bc-a5ef-97b64a0978f0.gif" width="80%">
-</div>
+<p align="center">
+Building scalable applications, cloud infrastructure, and contributing to open source.
+</p>
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Rahulchaudharyji2&label=Profile%20Views&color=orange&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/Rahulchaudharyji2?style=for-the-badge" />
+<img src="https://img.shields.io/github/stars/Rahulchaudharyji2?style=for-the-badge" />
+</p>
 
 ---
 

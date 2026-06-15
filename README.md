@@ -62,7 +62,41 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahulchaudharyji2&layout=compact&theme=radical&langs_count=15" />
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Rahulchaudharyji2" alt="Rahulchaudharyji2" /></a> </p>
+# 🌍 Open Source Contributions
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎵 Music Blocks
+
+Merged PR: #7135
+
+Improved localization workflow and project maintenance.
+
+</td>
+
+<td width="50%">
+
+### 🧠 NiiVue
+
+Merged PR: #1250
+
+Contributed to an open-source medical imaging visualization platform.
+
+</td>
+</tr>
+</table>
+
+### 📈 Open Source Stats
+
+✅ Total Merged PRs: 2
+
+✅ Active Contributor
+
+✅ Reviewing Community Issues
+
+✅ Learning OSS Development Workflow
 
 
 ## **🐍 Contribution Snake**
